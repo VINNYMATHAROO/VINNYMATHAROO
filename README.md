@@ -1,4 +1,4 @@
-## Hi there 👋
+AUTHOR  WAHEGURU ## Hi there 👋
 
 <!--
 **VINNYMATHAROO/VINNYMATHAROO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
